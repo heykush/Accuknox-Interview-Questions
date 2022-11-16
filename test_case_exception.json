@@ -1,0 +1,110 @@
+[
+  {
+    "eater_id": "001",
+    "food_menu_id": "AAA",
+    "quantity": 1,
+    "price": 100,
+    "menu_item": "PANEER TIKKA",
+    "total_price": 100,
+    "status": "PAID",
+    "created_at": "2022-10-21 13:42:20.950389",
+    "updated_at": "2022-10-21 13:42:20.950389",
+    "deleted_at": null
+  },
+  {
+    "eater_id": "001",
+    "food_menu_id": "AAA",
+    "quantity": 1,
+    "price": 100,
+    "menu_item": "PANEER TIKKA",
+    "total_price": 100,
+    "status": "PAID",
+    "created_at": "2022-10-21 13:42:20.950389",
+    "updated_at": "2022-10-21 13:42:20.950389",
+    "deleted_at": null
+  },
+  {
+    "eater_id": "002",
+    "food_menu_id": "AAC",
+    "quantity": 1,
+    "price": 100,
+    "menu_item": "Chicken TIKKA",
+    "total_price": 100,
+    "status": "PAID",
+    "created_at": "2022-10-21 13:42:20.950389",
+    "updated_at": "2022-10-21 13:42:20.950389",
+    "deleted_at": null
+  },
+  {
+    "eater_id": "003",
+    "food_menu_id": "AAC",
+    "quantity": 1,
+    "price": 100,
+    "menu_item": "Chicken TIKKA",
+    "total_price": 100,
+    "status": "PAID",
+    "created_at": "2022-10-21 13:42:20.950389",
+    "updated_at": "2022-10-21 13:42:20.950389",
+    "deleted_at": null
+  },
+  {
+    "eater_id": "004",
+    "food_menu_id": "AAA",
+    "quantity": 1,
+    "price": 100,
+    "menu_item": "PANEER TIKKA",
+    "total_price": 100,
+    "status": "PAID",
+    "created_at": "2022-10-21 13:42:20.950389",
+    "updated_at": "2022-10-21 13:42:20.950389",
+    "deleted_at": null
+  },
+  {
+    "eater_id": "005",
+    "food_menu_id": "AAE",
+    "quantity": 1,
+    "price": 100,
+    "menu_item": "SOMETHING2",
+    "total_price": 100,
+    "status": "PAID",
+    "created_at": "2022-10-21 13:42:20.950389",
+    "updated_at": "2022-10-21 13:42:20.950389",
+    "deleted_at": null
+  },
+  {
+    "eater_id": "006",
+    "food_menu_id": "AAF",
+    "quantity": 1,
+    "price": 100,
+    "menu_item": "SOMETHING3",
+    "total_price": 100,
+    "status": "PAID",
+    "created_at": "2022-10-21 13:42:20.950389",
+    "updated_at": "2022-10-21 13:42:20.950389",
+    "deleted_at": null
+  },
+  {
+    "eater_id": "007",
+    "food_menu_id": "AAG",
+    "quantity": 1,
+    "price": 100,
+    "menu_item": "SOMETHING4",
+    "total_price": 100,
+    "status": "PAID",
+    "created_at": "2022-10-21 13:42:20.950389",
+    "updated_at": "2022-10-21 13:42:20.950389",
+    "deleted_at": null
+  },
+  {
+    "eater_id": "008",
+    "food_menu_id": "AAE",
+    "quantity": 1,
+    "price": 100,
+    "menu_item": "SOMETHING2",
+    "total_price": 100,
+    "status": "PAID",
+    "created_at": "2022-10-21 13:42:20.950389",
+    "updated_at": "2022-10-21 13:42:20.950389",
+    "deleted_at": null
+  }
+]
